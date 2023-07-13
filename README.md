@@ -1,18 +1,20 @@
 # Oportunidades en el Mercado de Telecomunicaciones en Argentina
 Este repositorio contiene el análisis completo del mercado de las telecomunicaciones en Argentina, realizado para la empresa "Conexión Total". El objetivo principal de este proyecto es proporcionar un análisis valioso que ayude a la empresa a comprender el mercado argentino y tomar decisiones estratégicas para su incursión exitosa en el sector.
 
-Contenido del Repositorio
+# Contenido del Repositorio
 data/: Carpeta que contiene los conjuntos de datos utilizados en el análisis.
 
 notebooks/: Carpeta que contiene los notebooks de Jupyter utilizados para el análisis exploratorio de datos (EDA) y la generación de KPIs.
 
 EDA.ipynb: Notebook que realiza el análisis exploratorio de datos. En este notebook se realizan tareas como la limpieza y transformación de los datos, visualización de gráficos y estadísticas descriptivas para comprender mejor el conjunto de datos.
 
-KPIs.ipynb: Notebook que genera los KPIs sugeridos para evaluar el mercado de las telecomunicaciones en Argentina. Este notebook implementa los cálculos necesarios para cada KPI y presenta los resultados de manera clara y concisa.
+# KPIs.ipynb: 
+Notebook que genera los KPIs sugeridos para evaluar el mercado de las telecomunicaciones en Argentina. Este notebook implementa los cálculos necesarios para cada KPI y presenta los resultados de manera clara y concisa.
 
-dashboard/: Carpeta que contiene el archivo del dashboard interactivo creado en Power BI para visualizar los resultados del análisis.
+# dashboard/:
+ Carpeta que contiene el archivo del dashboard interactivo creado en Power BI para visualizar los resultados del análisis.
 
-Descubriendo Oportunidades en el Mercado de Telecomunicaciones en Argentina
+# Descubriendo Oportunidades en el Mercado de Telecomunicaciones en Argentina
 El análisis del mercado de las telecomunicaciones en Argentina proporciona información valiosa para la empresa "Conexión Total". A continuación, se presenta un análisis detallado para identificar oportunidades en el mercado:
 
 KPI 1: Conexiones de banda ancha por persona
