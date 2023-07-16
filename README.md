@@ -1,5 +1,5 @@
 # Proyecto  Análisis del Mercado de Telecomunicaciones en Argentina
-![Logo](https://i.postimg.cc/vT5hmHmy/logo-conexion-total.png)
+                ![Logo](https://i.postimg.cc/vT5hmHmy/logo-conexion-total.png)
 
 Este repositorio contiene el proyecto "Analisis del Mercado de Telecomunicaciones en Argentina", que tiene como objetivo realizar un análisis completo del mercado de las telecomunicaciones en Argentina para la empresa colombiana "Conexión Total". El proyecto busca proporcionar información valiosa que permita a la empresa tomar decisiones estratégicas y competitivas en su entrada al mercado argentino.
 
@@ -40,6 +40,8 @@ El análisis de la velocidad promedio de conexión de 30 Mbps revela que provinc
 Sin embargo, otras provincias muestran velocidades promedio inferiores a 30 Mbps, lo que indica oportunidades de mejora y diferenciación para "Conexión Total".
 
 La empresa puede enfocarse en ofrecer conexiones más rápidas y estables en estas provincias, mejorando su infraestructura y tecnología para satisfacer las necesidades de los usuarios que buscan una conexión de alta velocidad.
+
+![Grafico](https://i.postimg.cc/sgf9hG96/output1.png)
 
 ## Implementación de Tecnología 4G:
 Si bien la mayoría de las provincias cuentan con tecnología 4G, aún existen áreas geográficas donde esta tecnología no ha sido implementada.
