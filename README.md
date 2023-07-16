@@ -1,5 +1,5 @@
 # Proyecto  Análisis del Mercado de Telecomunicaciones en Argentina
-                ![Logo](https://i.postimg.cc/vT5hmHmy/logo-conexion-total.png)
+ ![Logo](https://i.postimg.cc/vT5hmHmy/logo-conexion-total.png)
 
 Este repositorio contiene el proyecto "Analisis del Mercado de Telecomunicaciones en Argentina", que tiene como objetivo realizar un análisis completo del mercado de las telecomunicaciones en Argentina para la empresa colombiana "Conexión Total". El proyecto busca proporcionar información valiosa que permita a la empresa tomar decisiones estratégicas y competitivas en su entrada al mercado argentino.
 
