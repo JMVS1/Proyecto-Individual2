@@ -32,6 +32,8 @@ Córdoba y Santa Fe también presentan una alta penetración de banda ancha fija
 
 Estas provincias representan oportunidades estratégicas para "Conexión Total" en términos de penetración y tamaño de mercado. La empresa puede enfocar sus esfuerzos en consolidar y fortalecer su presencia en estas regiones, ofreciendo servicios de calidad, planes atractivos y valor agregado para atraer y retener clientes.
 
+![Grafico](https://i.postimg.cc/qMcFp0g0/output.png)
+
 ## Velocidad de Conexión de 30 Mbps:
 El análisis de la velocidad promedio de conexión de 30 Mbps revela que provincias como Buenos Aires, Córdoba y Santa Fe presentan una buena calidad de servicio con velocidades superiores a este umbral.
 
