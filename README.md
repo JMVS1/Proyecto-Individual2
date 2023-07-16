@@ -35,7 +35,7 @@ Estas provincias representan oportunidades estratégicas para "Conexión Total" 
 ![Grafico](https://i.postimg.cc/qMcFp0g0/output.png)
 
 ## Velocidad de Conexión de 30 Mbps:
-El análisis de la velocidad promedio de conexión de 30 Mbps revela que provincias como Buenos Aires, Córdoba y Santa Fe presentan una buena calidad de servicio con velocidades superiores a este umbral.
+El análisis de la velocidad promedio de conexión de 30 Mbps revela que provincias como Capital Federal, Buenos Aires, Mendoza y Santa Fe presentan una buena calidad de servicio con velocidades iguales y superiores a este umbral.
 
 Sin embargo, otras provincias muestran velocidades promedio inferiores a 30 Mbps, lo que indica oportunidades de mejora y diferenciación para "Conexión Total".
 
@@ -53,18 +53,19 @@ Al brindar una conectividad móvil de alta calidad en estas regiones, la empresa
 
 ## KPIS GENERADOS
 
-KPI 1: Penetración de Banda Ancha Fija por Provincia
+**KPI 1: Penetración de Banda Ancha Fija por Provincia**
 
 El análisis revela que Buenos Aires se destaca como la provincia con el mayor número de conexiones de banda ancha fija, representando aproximadamente el 70.36% del total de viviendas en la provincia, según los datos del año 2022 basados en el último censo oficial de la República de Argentina. Córdoba y Santa Fe también presentan una alta penetración de banda ancha fija, con porcentajes significativos de conexiones. Estas provincias representan oportunidades estratégicas para "Conexión Total" en términos de penetración y tamaño de mercado. La empresa puede enfocar sus esfuerzos en consolidar y fortalecer su presencia en estas regiones, ofreciendo servicios de calidad, planes atractivos y valor agregado para atraer y retener clientes.
 
-KPI 2: Velocidad de Conexión de 30 Mbps
+**KPI 2: Velocidad de Conexión de 30 Mbps**
 
-El análisis de la velocidad promedio de conexión de 30 Mbps revela que provincias como Buenos Aires, Córdoba y Santa Fe presentan una buena calidad de servicio con velocidades superiores a este umbral. Sin embargo, otras provincias muestran velocidades promedio inferiores a 30 Mbps, lo que indica oportunidades de mejora y diferenciación para "Conexión Total". La empresa puede enfocarse en ofrecer conexiones más rápidas y estables en estas provincias, mejorando su infraestructura y tecnología para satisfacer las necesidades de los usuarios que buscan una conexión de alta velocidad.
+El análisis de la velocidad promedio de conexión de 30 Mbps revela que provincias como Capital Federal, Buenos Aires, Córdoba, Mendoza y Santa Fe presentan una buena calidad de servicio con velocidades iguales o superiores a este umbral. Sin embargo, otras provincias muestran velocidades promedio inferiores a 30 Mbps, lo que indica oportunidades de mejora y diferenciación para "Conexión Total". La empresa puede enfocarse en ofrecer conexiones más rápidas y estables en estas provincias, mejorando su infraestructura y tecnología para satisfacer las necesidades de los usuarios que buscan una conexión de alta velocidad.
 
-KPI 3: Falta de Tecnología 4G en Provincias, Partidos y Localidades de Argentina
+**KPI 3: Falta de Tecnología 4G en Provincias, Partidos y Localidades de Argentina**
 El análisis revela que algunas provincias, partidos y localidades de Argentina aún no cuentan con la tecnología 4G implementada. Esto representa una oportunidad estratégica para "Conexión Total" en su incursión en el mercado argentino de telecomunicaciones.
 
-Oportunidades de Mercado:
+
+## Oportunidades de Mercado:
 
 Expansión de Cobertura: La falta de tecnología 4G en ciertas áreas geográficas permite que "Conexión Total" pueda expandir su cobertura y llegar a nuevos clientes en regiones donde otros proveedores aún no están presentes. Al ofrecer una conectividad móvil de alta calidad en estas áreas, la empresa puede ganar una ventaja competitiva y atraer a aquellos que buscan mejorar su experiencia de navegación móvil.
 
